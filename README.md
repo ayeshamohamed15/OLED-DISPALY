@@ -35,6 +35,7 @@
 ---
 ## OUTPUT
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/241534fd-3353-4eec-8e2d-15262f2ff457" />
 
 
 
